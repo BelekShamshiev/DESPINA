@@ -1,0 +1,95 @@
+.container_Card {
+  max-width: 1600px;
+  width: 100%;
+  height: 500px;
+  max-height: 350px;
+}
+
+.card {
+  margin-top: 101px;
+}
+.flavor {
+  margin: 0 auto;
+  width: 85%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.flavor > img {
+  width: 650px;
+  height: 430px;
+}
+
+
+.kera {
+    max-width: 85%;
+    margin: 0 auto;
+    margin-top: -110px;
+    margin-left: 130px;
+}
+.kera > h1 {
+    font-family: 'Quicksand';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 38px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+}
+
+.kera>Button{
+    margin-top: 10px;
+    border-radius: 20px;
+    width: 150px;
+}
+
+
+.off >img{
+    width: 325px;
+    height: 190px;
+    margin-left: 50px;
+}
+
+
+
+.twinty>h1{
+    font-family: 'Quicksand';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 38px;
+display: flex;
+align-items: center;
+text-align: center;
+margin-top: -50px;
+margin-left: 80px;
+color: #FFFFFF;
+}
+
+.creat{ 
+    height: 190px;
+    width: 325px;
+    margin-top: 50px;
+
+
+}
+
+
+.enjo{
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+color: #FFFFFF;
+font-size: 15px;
+margin-left: 80px;
+margin-top: -65px;
+}
+
+.enjoy >Button{
+    margin-left: 80px;
+    border-radius: 20px;
+
+}

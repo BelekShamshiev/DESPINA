@@ -1,0 +1,67 @@
+body {
+  height: 1000px;
+
+  max-width: 1600px;
+  width: 100%;
+  margin: 0 auto;
+}
+/* @media (max-with:1600px){
+    .container{
+      max-width: 991px;
+    }
+  } */
+.container {
+  background-color: rgba(184, 146, 49, 0.932);
+  max-width: 100%;
+  max-height: 100px;
+  height: 100%;
+  margin: 0 auto;
+}
+
+.header_logo > img {
+  width: 140px;
+  height: 72px;
+}
+.header {
+    margin: 0 auto;
+    width: 90%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+.header_p{
+  display: flex;
+  justify-content: space-around;
+  gap: 30px;
+}
+.header_p >p{
+    font-size: 10px;
+}
+.phone_img {
+  display: flex;
+  gap: 20px;
+}
+.phone_img > p {
+  font-size: 8px;
+}
+.phone_img > img {
+  width: 20px;
+  height: 20px;
+}
+.basket {
+  display: flex;
+  gap: 20px;
+}
+.basket>p{
+    font-size: 8px;
+}
+.basket>img{
+    width: 20px;
+    height: 20px;
+}
+
+.dop{
+    display: flex;
+    justify-content: space-around;
+}

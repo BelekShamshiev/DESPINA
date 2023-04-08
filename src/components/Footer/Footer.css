@@ -1,0 +1,65 @@
+.container_Footer {
+  background: url(../../assets/bacground.png) no-repeat;
+    margin-top: 400px;
+}
+@media (max-with:1600px){
+  .container{
+    max-width: 991px;
+  }
+}
+.Despina {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 100px;
+}
+.Despina > img {
+  width: 227px;
+  height: 108px;
+  margin-top: 116px;
+}
+.Despina > h1 {
+  color: #c7a17a;
+  font-size: 20px;
+  margin-top: 168px;
+}
+
+.Despina_2 {
+  align-items: center;
+  justify-content: space-around;
+  display: flex;
+}
+.Despina_2 > p {
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 10px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+
+  color: #ffffff;
+}
+.video{
+  width: 160px;
+  height: 97px;
+  border-radius: 20px;
+}
+.Rectangle > img {
+  height: 15.5px;
+  width: 15px;
+}
+.Rectangle {
+  display: flex;
+  gap: 10px;
+  margin-left: 80px;
+}
+.Ren_p > p {
+  font-size: 10px;
+  color: #c7a17a;
+  margin-top: 100px;
+}
+.Ren_p{
+    justify-content: center;
+    align-items: center;
+    margin-left: 550px;
+}

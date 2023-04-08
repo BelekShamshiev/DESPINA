@@ -1,0 +1,136 @@
+.container_client {
+  background: url(../../assets/Client.png) no-repeat;
+
+  max-width: 1600px;
+  width: 100%;
+  margin: 0 auto;
+  height: 1000px;
+}
+@media (max-with:1600px){
+  .container{
+    max-width: 991px;
+  }
+}
+
+.Client {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-around;
+}
+.Client > h1 {
+  margin-top: 105px;
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 62px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #e4b95b;
+}
+
+.p_client {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 36px;
+}
+.p_client > p {
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 25px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #959393;
+}
+
+.img_client {
+  display: flex;
+  justify-content: center;
+  margin-top: 36px;
+}
+
+.img_client > img {
+  width: 152px;
+  height: 139px;
+}
+
+
+.Alice{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.Alice > h1 {
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 38px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #e4b95b;
+}
+
+.Citchen{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.Citchen >  p{
+    font-family: 'Quicksand';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #ffffff;
+
+}
+.Success{
+    display: flex;
+    justify-content: center;
+    margin-top: 36px;
+}
+.Success > p{
+    font-family: 'Quicksand';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 25px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color:#ffffff;
+
+
+}
+.belek  {
+  text-align: center;
+  font-size: 18px;
+  width: 800px;
+  height: 500px;
+  background: rgba(255, 255, 255, 0);
+
+  /* Center slide text vertically */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+

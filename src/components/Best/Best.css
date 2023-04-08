@@ -1,0 +1,42 @@
+.container_Best {
+  background-color: white;
+  height: 150px;
+  justify-content: center;
+  max-width: 85%;
+  margin: 0 auto;
+  margin-top: -400px;
+}
+@media (max-with:1600px){
+  .container{
+    max-width: 996px;
+  }
+}
+.best_swiper {
+  margin-top: -334px;
+}
+.img_ren > img {
+  width: 750px;
+  height: 420px;
+}
+.img_ren_2{
+    margin-top: -150px;
+    /* margin-left: 540px; */
+}
+.img_ren_2 > img {
+  width: 181px;
+  height: 121px;
+  z-index: -1;
+}
+.ren_h1{
+    color: black;
+}
+.rentagle_test_one img{
+  width: 819px;
+  height: 486px ;
+}
+
+.rentagle_test_second img{
+  width: 819px;
+  height: 486px ;
+  border-radius: 50px;
+}
